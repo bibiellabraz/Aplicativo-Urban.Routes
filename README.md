@@ -2,7 +2,7 @@
 
 ### Visão geral
 Visão geral do projeto realizado pela plataforma da TripleTen, da interface do app do Urban.Routes. Sendo analisado os requisitos e projetado testes para o app. 
-Urban.Routes É um serviço que cria rotas para vários tipos de transporte, calculando o tempo de viagem e o custo. O projeto tem vários campos de entrada: "Horário de partida", "De" e "Para", possuindo, também, vários modos: "Optimal", "Flash" e "Personal".
+
 
 ### O que foi feito
 1. Decompus e visualizei os requisitos com um mapa mental, um fluxograma e uma tabela.
@@ -14,6 +14,8 @@ Urban.Routes É um serviço que cria rotas para vários tipos de transporte, cal
 [Baixe aqui](https://github.com/bibiellabraz/meusarquivos/blob/e40ca64cf0759a2bea0dccaad18bb2b0ecc20134/Requisitos_para_Urban.routes.pdf).
 
 ### Funcionalidade
+Urban.Routes é um serviço que cria rotas para vários tipos de transporte, calculando o tempo de viagem e o custo. O projeto tem vários campos de entrada: "Horário de partida", "De" e "Para", possuindo, também, vários modos: "Optimal", "Flash" e "Personal".
+
 ### Imagens
 
 
