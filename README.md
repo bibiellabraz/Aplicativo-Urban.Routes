@@ -10,9 +10,14 @@ Urban.Routes É um serviço que cria rotas para vários tipos de transporte, cal
 3. Analisei requisitos, encontrei zonas cinzentas e as especifiquei.
 4. Escrevi casos de teste.
 
-### Pré-requisitos
+### Requisitos
+[Baixe aqui](https://github.com/bibiellabraz/meusarquivos/blob/e40ca64cf0759a2bea0dccaad18bb2b0ecc20134/Requisitos_para_Urban.routes.pdf).
+
 ### Funcionalidade
 ### Imagens
+
+
+
 Tecnologias
 
 Documentação de uma parte dos requisitos do aplicativo Urban.Routes: Fazendo a análise e a decomposição, definindo classes de equivalência e criando vários casos de testes básicos.
