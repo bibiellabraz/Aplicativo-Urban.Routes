@@ -1,8 +1,7 @@
 # Projeto 1 - Interface do aplicativo Urban.Routes
 
 ### Visão geral
-Visão geral do projeto realizado pela plataforma da TripleTen, da interface do app do Urban.Routes. Sendo analisado os requisitos e projetado testes para o app. 
-
+Projeto realizado pela plataforma da TripleTen, onde foi testado o serviço e a interface do Urban.Routes, sendo analisado, também, os requisitos e projetado testes para o aplicativo. 
 
 ### O que foi feito
 1. Decompus e visualizei os requisitos com um mapa mental, um fluxograma e uma tabela.
